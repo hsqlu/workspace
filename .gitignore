@@ -26,8 +26,11 @@ algorithm
 
 **/node_modules
 
+6.824/
 go/6.824/.vscode/
 go/src/github.com/
 go/src/golang.org/
 github
 linux
+sql
+go
